@@ -72,7 +72,7 @@ class App extends React.Component {
                   country={this.state.country}
                   error={this.state.error}
                 />
-                <p class="credits"> Credits: 'Shivam Sagar' </p>
+                <p className="credits"> Credits: 'Shivam Sagar' </p>
                 </div>
               </div>
             </div>

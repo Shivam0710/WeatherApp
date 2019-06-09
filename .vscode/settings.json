@@ -1,0 +1,6 @@
+{
+	"workbench.settings.useSplitJSON": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	}
+}
